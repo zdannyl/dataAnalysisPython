@@ -3,7 +3,7 @@ import pandas as pd
 
 def merge_csv_files():
     # Create an empty list to store files for merging.
-    filePaths = []
+    filePaths = []  
 
     # Start loop to prompt user to enter file paths for CSVs to merge:
     while True:
